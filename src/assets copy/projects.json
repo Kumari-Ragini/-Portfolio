@@ -1,0 +1,101 @@
+[{
+        "name": "feedbackhub",
+        "desc": "The web application is built using PHP and provides a user-friendly interface for handling crime-related information.",
+        "image": "./img/crimedetector.png",
+        "category": "Basic Web",
+        "links": {
+            "view": "https://efixpro-e0346.web.app/script.js",
+            "code": "https://github.com/Kumari-Ragini/final_project"
+        }
+    },
+    {
+        "name": "AWS and Kubwernetes Langchain",
+        "desc": "It uses the GPT-3 model provided by OpenAI to generate terminal commands and responses based on user inputs. The assistant can receive voice commands and text inputs, providing terminal commands as output.",
+        "image": "./img/kubernetesandaws.jpg",
+        "category": "Python",
+        "links": {
+            "view": "https://github.com/bhavishya-8/Kubernates-and-AWS-Langchain",
+            "code": "https://github.com/bhavishya-8/Kubernates-and-AWS-Langchain"
+        }
+    },
+    {
+        "name": "Ansible Automated loadbalancer",
+        "desc": "This project aims to provide a simplified and beginner-friendly approach to setting up an automated HAProxy load balancer using Ansible.",
+        "image": "./img/ansibleloadbalancer.jpg",
+        "category": "Ansible",
+        "links": {
+            "view": "https://github.com/bhavishya-8/ansible_automated_HAproxy_load_balancer",
+            "code": "https://github.com/bhavishya-8/ansible_automated_HAproxy_load_balancer"
+        }
+    },
+    {
+        "name": "Linux Controller",
+        "desc": "Linux controller program with a graphical user interface (GUI) built using the tkinter library",
+        "image": "./img/linuxcontroller.jpg",
+        "category": "Python",
+        "links": {
+            "view": "https://github.com/bhavishya-8/Linux-controller",
+            "code": "https://github.com/bhavishya-8/Linux-controller"
+        }
+    },
+    {
+        "name": "Goal Checker",
+        "desc": "Web application that allows users to track their daily goals. Users can add new goals to a to-do list, mark goals as completed, and remove completed goals from the list.",
+        "image": "./img/goals.jpg",
+        "category": "Basic Web",
+        "links": {
+            "view": "https://github.com/bhavishya-8/docker-project",
+            "code": "https://github.com/bhavishya-8/docker-project"
+        }
+    },
+    {
+        "name": "Car Game in CPP",
+        "desc": "The game involves controlling a car to avoid oncoming obstacles.",
+        "image": "./img/cargame.jpg",
+        "category": "CPP",
+        "links": {
+            "view": "https://github.com/bhavishya-8/Car-game-cpp",
+            "code": "https://github.com/bhavishya-8/Car-game-cpp"
+        }
+    },
+    {
+        "name": "AWS EC2 Instance Management using Hand Gestures",
+        "desc": "It uses the OpenCV library for capturing webcam video and the HandTrackingModule from the cvzone library to detect hand gestures. The code allows launching and terminating EC2 instances based on detected gestures.",
+        "image": "./img/awsmanager.jpg",
+        "category": "Python",
+        "links": {
+            "view": "https://github.com/bhavishya-8/AI-based-AWS-instance-manager",
+            "code": "https://github.com/bhavishya-8/AI-based-AWS-instance-manager"
+        }
+    },
+    {
+        "name": "Distance of Face from Camera",
+        "desc": "It demonstrates face detection and calculating the distance of a detected face from the camera.",
+        "image": "./img/distancefromcamera.jpg",
+        "category": "Python",
+        "links": {
+            "view": "https://github.com/bhavishya-8/facedetection",
+            "code": "https://github.com/bhavishya-8/facedetection"
+        }
+    },
+    {
+        "name": "Video sharing Application",
+        "desc": "This script implements a simple video call application using OpenCV and Tkinter. It provides the ability to either send live video from your webcam to a specified directory on a web server or receive and display video from a specified IP address.",
+        "image": "./img/videosharing.jpg",
+        "category": "Python",
+        "links": {
+            "view": "https://github.com/bhavishya-8/videocall_app_Linux",
+            "code": "https://github.com/bhavishya-8/videocall_app_Linux"
+        }
+    },
+    {
+        "name": "Amazon Product Scraping",
+        "desc": "It utilizes the requests library for making HTTP requests and the BeautifulSoup library for parsing HTML content. ",
+        "image": "./img/scapingtool.jpg",
+        "category": "Python",
+        "links": {
+            "view": "https://github.com/bhavishya-8/Amazon-scraper-tool",
+            "code": "https://github.com/bhavishya-8/Amazon-scraper-tool"
+        }
+    }
+]
