@@ -1,18 +1,12 @@
-import React, { useEffect, useRef } from "react";
+import React from "react";
 import "./assets copy/css/style.css";
-function App() {
 
+function App() {
   return (
     <div>
       <h1>My Portfolio</h1>
       <p>Check out my project below:</p>
-
-     
-
       <br /><br />
-
-    
-    
     </div>
   );
 }
